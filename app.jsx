@@ -171,7 +171,7 @@ function createAudio() {
 const audio = createAudio();
 const IMG_TOME = "assets/tome.png";
 const IMG_DIE = "assets/die.png";
-const IMG_HOURGLASS = "assets/hourglass.png";
+const IMG_HOURGLASS = "assets/hourglass.jpg";
 
 
 
